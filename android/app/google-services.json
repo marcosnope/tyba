@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "375249688847",
+    "project_id": "tyba-auth",
+    "storage_bucket": "tyba-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375249688847:android:0b5c753be9d3fe66fc067a",
+        "android_client_info": {
+          "package_name": "com.example.tyba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375249688847-h7dc4h1h78tq9uv05h0417rj9tq770m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzVgLVMyUC2aQbdJ-bGlc9Xx_T22InuGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375249688847-h7dc4h1h78tq9uv05h0417rj9tq770m1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
